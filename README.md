@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Preksha Darji A06</title>
+<h2>Preksha Darji - A06</h2>
 <h1>Hello! Welcome to my first webpage.</h1>
-<h3>Information Technoloy 117 ; Section 004</h3>
+<h3>Information Technoloy 117 - Section 004</h3>
 </head>
     
 <body>
